@@ -15,6 +15,15 @@ It uses the [Bank Marketing dataset](https://archive.ics.uci.edu/ml/datasets/Ban
 
 ---
 
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- trinket
+---
+
 ## 🧼 Preprocessing Steps
 
 - Removed duplicate rows
@@ -58,15 +67,8 @@ It uses the [Bank Marketing dataset](https://archive.ics.uci.edu/ml/datasets/Ban
 
 The decision tree is plotted with all input features, showing splits and class predictions for interpretability.
 
-![Decision Tree Plot](images/decision_tree_plot.png)
+<img src="decision_tree_plot.png" width="500">
 
 ---
 
-## 📦 Requirements
-
-```bash
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kolachana-praneesh-618a05291/)
